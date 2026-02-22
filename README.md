@@ -4,7 +4,7 @@ This repository contains a functional Digital Twin of a hybrid biomass energy sy
 
 ## 🚀 How to Run
 1. Open terminal
-2. Go to project directory: cd Downloads\Group-11-Design-of-an-AD-HTC-Fuel-Enhanced-Gas-Power-Cycle-main\Group-11-Design-of-an-AD-HTC-Fuel-Enhanced-Gas-Power-Cycle-main
+2. Go to project directory: `cd Downloads\Group-11-Design-of-an-AD-HTC-Fuel-Enhanced-Gas-Power-Cycle-main\Group-11-Design-of-an-AD-HTC-Fuel-Enhanced-Gas-Power-Cycle-main`
 3. Install requirements: `pip install -r requirements.txt`
 4. Run the app: `streamlit run Codebase.py`
 
